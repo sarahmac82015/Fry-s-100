@@ -1,4 +1,8 @@
 import React, { useState } from "react";
+import { Button } from "@/components/ui/button";
+import { Card, CardContent } from "@/components/ui/card";
+import { motion } from "framer-motion";
+import words from ".src/data/frys_sight_words";
 import correctSound from "./correct.mp3";
 import levelUpSound from "./level-up.mp3";
 
