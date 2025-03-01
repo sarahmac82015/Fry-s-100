@@ -6,6 +6,7 @@ import words from ".src/data/frys_sight_words";
 import correctSound from "./correct.mp3";
 import levelUpSound from "./level-up.mp3";
 
+
 const words = [
   // First 100 Fry's Sight Words (Level 1)
   ["the", "of", "and", "a", "to", "in", "is", "you", "that", "it", "he", "was", "for", "on", "are", "as", "with", "his", "they", "I", "at", "be", "this", "have", "from", "or", "one", "had", "by", "word",
